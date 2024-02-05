@@ -1,0 +1,18 @@
+JSESSIONID=B4B7E05A6FB042DF64E937C3925E571F; Path=/; HttpOnly
+[User{id=1, name='Alexander', lastName='Egorov', age=23}, User{id=2, name='Snanislav', lastName='Ivanov', age=21}]
+
+[Cookie:"JSESSIONID=B4B7E05A6FB042DF64E937C3925E571F; Path=/; HttpOnly", Accept:"application/json"]
+
+5ebfeb
+
+[Cookie:"JSESSIONID=B4B7E05A6FB042DF64E937C3925E571F; Path=/; HttpOnly", Accept:"application/json"]
+
+e7cb97
+
+[Cookie:"JSESSIONID=B4B7E05A6FB042DF64E937C3925E571F; Path=/; HttpOnly", Accept:"application/json"]
+
+5dfcf9
+
+5ebfeb+e7cb97+5dfcf9
+
+ответ: 5ebfebe7cb975dfcf9
